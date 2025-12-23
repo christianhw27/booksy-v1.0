@@ -189,14 +189,6 @@ Proyek ini dikembangkan sebagai bagian dari Tugas Akhir/Proyek Kampus oleh:
 * **Cesya Aulia Ramadhani** - *Frontend & UI/UX Designer*
 * **Hanifah Kurnia Fa'izah** - *Documentation & Quality Assurance*
 
----
-
-## 📄 Lisensi
-
-Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
-
----
-
 <div align="center">
 <p>Dibuat dengan ❤️ oleh Tim Booksy</p>
 </div>
