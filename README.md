@@ -10,10 +10,12 @@
     Solusi modern untuk manajemen peminjaman buku dengan teknologi QR Code.
     <br />
     <br />
-    <a href="#cara-instalasi"><strong>Lihat Demo</strong></a> ·
-    <a href="https://github.com/username/booksy/issues"><strong>Laporkan Bug</strong></a> ·
+    <a href="http://booksy.xo.je"><strong>🌐 Coba Live Demo (booksy.xo.je)</strong></a>
+    ·
+    <a href="https://github.com/username/booksy/issues"><strong>Laporkan Bug</strong></a>
+    ·
     <a href="https://github.com/username/booksy/pulls"><strong>Request Fitur</strong></a>
-  </p>
+</p>
 </div>
 
 <div align="center">
@@ -182,6 +184,3 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 
 ```
 
-3.  **Edit Link:** Ganti `https://github.com/username/booksy` dengan link repository GitHub kamu yang asli.
-
-```
