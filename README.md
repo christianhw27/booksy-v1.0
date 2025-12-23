@@ -55,6 +55,24 @@
 
 ---
 
+## 📸 Galeri Tampilan
+
+Berikut adalah tampilan antarmuka aplikasi Booksy:
+
+| Halaman Utama | Katalog Buku |
+| :---: | :---: |
+| <img src="images/ss1.png" alt="Home" width="400"> | <img src="images/ss2.png" alt="Catalog" width="400"> |
+
+| Detail & Booking | Tiket QR Code |
+| :---: | :---: |
+| <img src="images/ss3.png" alt="Detail" width="400"> | <img src="images/ss4.png" alt="QR Ticket" width="400"> |
+
+| Dashboard Admin | Manajemen Peminjaman |
+| :---: | :---: |
+| <img src="images/ss5.png" alt="Admin" width="400"> | <img src="images/ss6.png" alt="Loans" width="400"> |
+
+---
+
 ## 🚀 Fitur Utama
 
 ### Untuk Pengguna (Member)
@@ -87,21 +105,25 @@ Aplikasi ini dibangun menggunakan *stack* teknologi yang ringan, cepat, dan muda
 Berikut adalah gambaran umum struktur direktori proyek Booksy:
 
 ```text
-booksy/
-├── admin/              # Halaman dashboard admin
-│   ├── admin_templates/# Header/Footer khusus admin
-│   ├── books.php       # Manajemen buku
-│   ├── users.php       # Manajemen user
-│   └── ...
-├── assets/             # File statis (CSS, JS, Gambar)
-│   ├── css/
-│   └── img/
-├── templates/          # Header/Footer umum (User)
-├── db.php              # Konfigurasi koneksi database
-├── index.php           # Landing page & Katalog
-├── catalog.php         # Halaman pencarian
-├── login.php           # Autentikasi
-└── README.md           # Dokumentasi proyek
+booksy-v1.0/
+├── admin/                  # Halaman khusus Admin
+│   ├── admin_templates/    # Sidebar & Header Admin
+│   ├── add_book.php        # Form tambah buku
+│   ├── manage_books.php    # CRUD Buku
+│   ├── messages.php        # Inbox pesan
+│   ├── process_loan.php    # Logika peminjaman
+│   └── users.php           # Data member
+├── images/                 # Aset gambar & Screenshot (ss1-ss6)
+├── templates/              # Komponen User (Header/Footer)
+├── db.php                  # Koneksi Database
+├── index.php               # Halaman Utama
+├── catalog.php             # Halaman Pencarian
+├── detail.php              # Info detail buku
+├── borrow_book.php         # Logika booking
+├── view_ticket.php         # Tampilan tiket QR
+├── mybooks.php             # Riwayat peminjaman
+├── auth.php                # Cek sesi login
+└── style.css               # Styling tambahan
 
 ```
 
