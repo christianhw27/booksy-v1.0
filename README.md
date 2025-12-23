@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/username/booksy">
+  <a href="https://github.com/christianhw27/booksy-v1.0">
   </a>
 
   <h1 align="center">Booksy</h1>
@@ -12,9 +12,9 @@
     <br />
     <a href="http://booksy.xo.je"><strong>🌐 Coba Live Demo (booksy.xo.je)</strong></a>
     ·
-    <a href="https://github.com/username/booksy/issues"><strong>Laporkan Bug</strong></a>
+    <a href="https://github.com/christianhw27/booksy-v1.0/issues"><strong>Laporkan Bug</strong></a>
     ·
-    <a href="https://github.com/username/booksy/pulls"><strong>Request Fitur</strong></a>
+    <a href="https://github.com/christianhw27/booksy-v1.0/pulls"><strong>Request Fitur</strong></a>
 </p>
 </div>
 
@@ -121,7 +121,7 @@ Ikuti langkah-langkah berikut untuk menjalankan Booksy di komputer lokal (Localh
 1. **Clone Repository**
 Buka terminal (Git Bash/CMD) dan jalankan:
 ```bash
-git clone [https://github.com/username-anda/booksy.git](https://github.com/username-anda/booksy.git)
+git clone [https://github.com/christianhw27/booksy-v1.0.git](https://github.com/username-anda/booksy.git)
 
 ```
 
