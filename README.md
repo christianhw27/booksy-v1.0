@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/christianhw27/booksy-v1.0">
-  </a>
-
   <h1 align="center">Booksy</h1>
 
   <p align="center">
@@ -203,6 +200,4 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 <div align="center">
 <p>Dibuat dengan ❤️ oleh Tim Booksy</p>
 </div>
-
-```
 
