@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/username/booksy">
-    <img src="assets/images/logo-placeholder.png" alt="Logo Booksy" width="80" height="80">
   </a>
 
   <h1 align="center">Booksy</h1>
